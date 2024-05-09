@@ -1,5 +1,5 @@
 {
-    "name": "laminas-api-tools/api-tools-mvc-auth",
+    "name": "rnd-cosoft/api-tools-mvc-auth",
     "description": "Laminas Module providing Authentication and Authorization events and infrastructure",
     "license": "BSD-3-Clause",
     "keywords": [

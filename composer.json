@@ -76,6 +76,6 @@
     },
     "replace": {
         "zfcampus/zf-mvc-auth": "^1.5.1",
-        "laminas-api-tools/api-tools-mvc-auth"
+        "laminas-api-tools/api-tools-mvc-auth": "*"
     }
 }

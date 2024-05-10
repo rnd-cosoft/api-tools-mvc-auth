@@ -32,9 +32,9 @@
     },
     "require": {
         "php": "~8.1.0 || ~8.2.0 || ~8.3.0",
-        "laminas-api-tools/api-tools-api-problem": "^1.5.0",
-        "laminas-api-tools/api-tools-content-negotiation": "^1.8.0",
-        "laminas-api-tools/api-tools-oauth2": "^1.9",
+        "rnd-cosoft/api-tools-api-problem": "^1.5.0",
+        "rnd-cosoft/api-tools-content-negotiation": "^1.8.0",
+        "rnd-cosoft/api-tools-oauth2": "^1.9",
         "laminas/laminas-authentication": "^2.9.0",
         "laminas/laminas-eventmanager": "^3.4",
         "laminas/laminas-http": "^2.15.1",
@@ -75,6 +75,7 @@
         "test-coverage": "phpunit --colors=always --coverage-clover clover.xml"
     },
     "replace": {
-        "zfcampus/zf-mvc-auth": "^1.5.1"
+        "zfcampus/zf-mvc-auth": "^1.5.1",
+        "laminas-api-tools/api-tools-mvc-auth"
     }
 }
